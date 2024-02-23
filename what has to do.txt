@@ -1,0 +1,150 @@
+cpp 6
+    line 38
+cpp 10
+    https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028
+cpp13
+    find pivot element in a sorted and rotated array
+cpp14
+    find pivot element in a sorted and rotated array
+cpp15
+
+
+
+
+
+lecture 13-15, 20, 21, 42, 43
+
+cpp 14 sqrt
+cpp13 findPeakInMountainArray2
+
+lecture 22 last 2 questions 30 minutes
+
+how to apply custom delimeter
+
+why do we need to specify column size, while passing a 2d array as a parameter
+
+last question of lecture 24
+segmented sieve
+catalan number   + its application
+inclusion exclusion principle
+
+code studio guided path pointers theory and problems
+difference between *ptr and (*ptr) both are same but use () always
+difference between *ptr++ and (*ptr)++
+
+how to find size of an array without stl
+
+line 78 of cpp26.cpp
+
+line 61 of cpp27.cpp
+
+how to initialize an entire array from any value without a loop
+
+15:45-18:52 in lecture 28
+19:27-20:20 in lecture 28
+
+does vector created in stack or heap memory
+
+line 201 of cpp27.cpp
+
+coding ninja -> code studio -> guided path -> basics of C++ -> all
+coding ninja -> code studio -> guided path -> competetive-programming -> complexity analysis
+coding ninja -> code studio -> guided path -> data structures algorithm
+gfg and code studio article macros and its types and constant variable
+
+address typecasting
+
+create a jaggered array dynamically
+
+line 42 of cpp34.cpp    isPalindromeCaseSensitive()
+
+adaptable algorithm
+
+https://www.geeksforgeeks.org/merge-sort/   applications are VERY important     drawbacks
+Inversion Count Problem
+use indexes to do merge sort
+
+cpp 35      giving ERROR
+
+find all duplicate of an array leet code
+optimise solution for tiplet of given sum
+find pivot in an array
+
+cpp36
+    input
+    8 
+    3 1 4 2 3 1 4 5
+
+cpp37 both questions using bits manipulation
+
+lecture 39 and cpp39
+cpp40
+    for input
+        3
+        1 1 1
+        1 1 1
+        1 1 1
+
+lecture 42
+padding
+greedy alignment
+constructor and default constructor in class
+
+
+lecture44
+    49:00-50:15
+    54:25-55:55
+    1:32:20-1:33:20     cpp44.2.cpp
+    1:44:40-1:45:30
+
+we know how to insert an end line, but how to delete an end line in console
+
+cpp44.2.cpp line no. 255
+
+
+cpp45
+    reverse a doubly linked list
+
+lecture 46
+
+lecture 47
+    https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
+
+cpp48.cpp
+    line no. 71
+
+lecture 48
+    how to sort a linked list
+
+cpp50.cpp
+    line no. 69
+    line no. 161
+
+add 2 numbers represented by arrays
+
+
+cpp55.cpp
+    sort stack using O(n)
+    redundantBrackets function
+
+lecture 58, 59
+
+lecture 60
+    29:15
+
+cpp26
+    line no. 191    error if i am using & operator
+
+lecture 64
+    last question   very important
+
+lecture 65
+    first question
+
+cpp 65.cpp
+    lowestCommonAncestorOf2Nodes
+
+find pair of elements in a vector who sum is equal to a given value
+
+cpp71
+    all preordertoBST functions show 1 invalid value in an output
